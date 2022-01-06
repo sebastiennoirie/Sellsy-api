@@ -16,7 +16,7 @@
     }
   ],
   "require": {
-    "guzzlehttp/guzzle": "^6.0",
+    "guzzlehttp/guzzle": "^7.0.1",
     "psr/log": "^1.0",
     "spatie/guzzle-rate-limiter-middleware": "*"
   },
